@@ -93,7 +93,7 @@
 ## 🪪 License
 
 Distributed under the MIT License.  
-สร้างโดย [Master Mongkhol](https://github.com/your-username)
+สร้างโดย [Dexedus Dev](https://github.com/Dexedus-Dev)
 
 ---
 
