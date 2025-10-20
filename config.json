@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "guild_id": 123456789012345678,
+  "channel_id": 987654321098765432,
+  "pastebincode": "abcd1234",
+  "pastebin_cookie": "YOUR_PASTEBIN_COOKIE"
+}
