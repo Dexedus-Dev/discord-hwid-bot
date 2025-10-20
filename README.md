@@ -62,7 +62,7 @@
 
 1. ติดตั้งไลบรารีที่จำเป็น:
    ```bash
-   pip install nextcord pastebin requests
+   pip install nextcord requests
    ```
 
 2. รันบอท:
